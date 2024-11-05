@@ -163,7 +163,7 @@ disqus:
 # Fill in your Utterances data to enable Utterances comments
 utterances:
   enabled: true
-  repo: owner/githubrepo
+  repo: hzl9900/blog
   issue_term: pathname
   label: Comment
   theme: github-light
