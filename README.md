@@ -1,10 +1,13 @@
 # 首页
 
-## about me
+## 关于我
 
 ## 为什么我用github repo写博客
 
-TODO
+我的需求
+
+- 渲染markdown
+- 同步和部署方便
 
 ## 目录
 
