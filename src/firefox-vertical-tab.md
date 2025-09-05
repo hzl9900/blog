@@ -9,3 +9,5 @@
     display: none !important;
 }
 ```
+
+注: 需要先在`about:config`中, 启用`toolkit.legacyUserProfileCustomizations.stylesheets`
