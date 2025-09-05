@@ -7,7 +7,7 @@
 - [stl1week](src/stl1weekend.md)
 - [vector](src/vector.md)
 
-## 数学
+### 数学
 
 - [一些开放问题](src/some-open-problems.md)
 
