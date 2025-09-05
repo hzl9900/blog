@@ -7,6 +7,10 @@
 - [stl1week](src/stl1weekend.md)
 - [vector](src/vector.md)
 
+## 数学
+
+- [一些开放问题](src/some-open-problems.md)
+
 ### 其他
 
 - [火狐垂直标签页](src/firefox-vertical-tab.md)
