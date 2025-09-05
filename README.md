@@ -2,8 +2,13 @@
 
 ## 目录
 
+### C++
+
 - [stl1week](src/stl1weekend.md)
 - [vector](src/vector.md)
+
+### 其他
+
 - [火狐垂直标签页](src/firefox-vertical-tab.md)
 
 ## 为什么我用github repo写博客
