@@ -9,13 +9,10 @@
 
 ### 数学
 
-- TODO [素与不可约](src/素与不可约.md)
-- [整除, 因数, 倍数](src/关于整除%20因数%20倍数.md)
 - [一些开放问题](src/some-open-problems.md)
 
 ### 其他
 
-- TODO [素数筛法](src/筛法.md)
 - [扩展欧几里得算法](src/exgcd.md)
 - [火狐垂直标签页](src/firefox-vertical-tab.md)
 
