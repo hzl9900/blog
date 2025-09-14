@@ -15,6 +15,7 @@
 
 - [扩展欧几里得算法](src/exgcd.md)
 - [火狐垂直标签页](src/firefox-vertical-tab.md)
+- [ssh-keygen best practice](src/ssh-keygen_best_practice.md)
 
 ## 为什么我用github repo写博客
 
